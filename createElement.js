@@ -7,7 +7,7 @@ class createElement {
         this.name = name
     }
 
-    // dive
+    // div
     divOpen() {
         return "<div  class='" + this.classes + "'  id='" + this.id + "'  style='" + this.style + "'>"
     }
